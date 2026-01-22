@@ -1,147 +1,121 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
-
 <p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:3282b8&height=200&section=header&text=Abdulaziz%20Mohamed&fontSize=45&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
+  <b>Senior HSE Specialist • Unified Contract Expert • Electrical Field Operations • Technical Skills</b>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Lead Robotics Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences:
-  - ["Lead Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-Now"]
-  - ["Principal Solutions Engineer", "Web3, AI", "Unchained Labs", "Stealth", "2024-Now"]
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+## 🧾 About Me
+I am **Abdulaziz Mohamed**, a specialist in **Occupational Safety & Health**, with more than **20 years of experience** in the **Unified Contract** within electrical projects.  
+Currently working at **Seder Group for Trading & Contracting**, a contractor for the **Saudi Electricity Company**, supervising safety, aerial & ground works, and maintenance operations.
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-```
+My background combines **field expertise** with **strong computer and programming skills**, enabling me to manage operations efficiently and apply safety standards with precision.
+
+---
+
+## 🛠️ Professional Experience
+
+### 🔹 Seder Group for Trading & Contracting  
+**HSE Officer / Field Supervisor**  
+**2018 – Present**
+- Implementing and monitoring **Occupational Safety & Health** standards.  
+- Supervising **aerial works** (poles, overhead lines, network maintenance).  
+- Supervising **ground works**, excavation, and site safety.  
+- Applying and auditing **Unified Contract** requirements.  
+- Preparing daily, weekly, and monthly safety reports.  
+- Training teams on safe work procedures.  
+- Managing work orders and reports through **UDS system**.  
+- Supervising preventive and corrective maintenance tasks.
+
+---
+
+### 🔹 Barq International  
+**Field Technician / Maintenance Supervisor**  
+**Before 2018**
+- Executing electrical and mechanical maintenance tasks.  
+- Working on overhead and underground networks.  
+- Ensuring safety compliance during field operations.  
+- Managing daily tasks and coordinating with field teams.
+
+---
+
+## 🧰 Technical Skills
+
+### 🦺 Safety & Field Operations
+- Risk Assessment  
+- Emergency Response  
+- Work-at-Height Safety  
+- Excavation & Ground Work Safety  
+- Incident Reporting & Investigation  
+- Safety Inspections & Audits  
+
+### 💻 Computer & Software
+- Microsoft Office (Word, Excel, PowerPoint)  
+- UDS System  
+- Technical Documentation  
+- Reporting & Data Entry  
+
+### 🌐 Programming Basics
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 🎓 Certifications & Courses
+- Occupational Safety & Health (OSHA or equivalent)  
+- Unified Contract Training  
+- Electrical Maintenance Courses  
+- Computer & Office Software Courses  
+
+---
+
+## ⭐ Strengths
+- Strong field experience  
+- High commitment to safety  
+- Excellent communication with teams  
+- Technical and administrative balance  
+- Fast learner and adaptable  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulaziz&theme=react-dark&hide_border=true" />
+</p>
 
-**:zap: Recent Activity:**
+---
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#19394](https://github.com/BerriAI/litellm/pull/19394#issuecomment-3777835745) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-2. 🗣 Commented on [#14771](https://github.com/BerriAI/litellm/issues/14771#issuecomment-3771401625) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-3. 💪 Opened PR [#19394](https://github.com/BerriAI/litellm/pull/19394) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-4. 🗣 Commented on [#14771](https://github.com/BerriAI/litellm/issues/14771#issuecomment-3768874795) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-5. 🎉 Merged PR [#1](https://github.com/guilyx/bash.ai/pull/1) in [guilyx/bash.ai](https://github.com/guilyx/bash.ai)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C257%20hrs%2052%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.73%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 406.5 kB Used in GitHub's Storage 
- > 
-> 🏆 334 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 96 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1104 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-🌆 Daytime                5860 commits        ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌃 Evening                5146 commits        █████████░░░░░░░░░░░░░░░░   35.76 % 
-🌙 Night                  2279 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Python                   5 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.35 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-TOML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-
-🐱‍💻 Projects: 
-bash.ai                  4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
-oryx-scraper             1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-litellm                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-car_loc_viz              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-watpy                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-```
-
-
- Last Updated on 21/01/2026 14:32:59 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 16 July 2020 - To: 20 January 2026
-
-Total Time: 2,259 hrs 42 mins
-
-C++                        737 hrs 20 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.63 %
-Python                     356 hrs 34 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.78 %
-Go                         313 hrs 20 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.87 %
-C                          146 hrs 25 mins ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.48 %
-YAML                       120 hrs 37 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.34 %
-Bash                       112 hrs 27 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.98 %
-```
-
-<!--END_SECTION:waka-simple-->
-
-Liked it ?
-
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
-
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+## 🏷️ Badges
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://img.shields.io/badge/HSE-Expert-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unified%20Contract-20%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field%20Operations-Aerial%20%26%20Ground-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programming-HTML%20%7C%20CSS%20%7C%20JS-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UDS-System-red?style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Contact
+- **Location:** Saudi Arabia  
+- **Languages:** Arabic, English  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3282b8,100:0f4c75&height=120&section=footer" />
 </p>
